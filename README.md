@@ -10,15 +10,15 @@ Launched in 2008, KAT quickly became the leading BitTorrent directory by 2014 du
 <h2>Active Kickass Torrents Proxy Sites</h2>
 Access KAT via these proxies. Use a VPN to bypass restrictions and maintain privacy:
 
-kickasstorrents.to
-kickass.sx
-katcr.to
-kickasstorrent.cr
-kickasshydra.net
-kat.am
-kickass.cm
-kickass.one
-kickass.torrentsbay.org
+<li>kickasstorrents.to</li>
+<li>kickass.sx</li>
+<li>katcr.to</li>
+<li>kickasstorrent.cr</li>
+<li>kickasshydra.net</li>
+<li>kat.am</li>
+<li>kickass.cm</li>
+<li>kickass.one</li>
+<li>kickass.torrentsbay.org</li>
 
 <h2>MoMoProxy: A Trusted Solution</h2>
 <a href="https://momoproxy.com">MoMoProxy</a> offers fast, secure access to KAT and other torrent sites. Features include:
