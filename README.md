@@ -23,7 +23,7 @@ Access KAT via these proxies. Use a VPN to bypass restrictions and maintain priv
 <h2>MoMoProxy: A Trusted Solution</h2>
 <a href="https://momoproxy.com">MoMoProxy</a> offers fast, secure access to KAT and other torrent sites. Features include:
 
-<li>Global Reach: 80M+ proxies across 190+ countries.</li>
+<li>Global Reach: 80M+ residential proxies across 190+ countries.</li>
 <li>Versatility: Supports HTTP(S) and SOCKS5 protocols.</li>
 <li>High Speed: Up to 500M/S with low latency.</li>
 <li>Reliability: 99.64% success rate and 0.51s response time.</li>
